@@ -1,4 +1,15 @@
 # Chatbot_WG
+
+## Installation
+The framework uses Python >= 3.8 and Django.
+
+## Licence
+The Code is distributed under a GPL V3 licence.
+
+It uses code from:
+https://github.com/tthelen/chatbot_sem22
+
+## Changes
 1. added files: 
   - 3 bot files in the directory bots
   - in the directory data/wgbotfiles:
